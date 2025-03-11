@@ -98,4 +98,4 @@ AWS Elastic Beanstalk Deployment Guide: AWS Elastic Beanstalk Deployment Guide
 ## License
 This project is licensed under the MIT License, which allows you to freely use, modify, and distribute the code. However, it comes with no warranty, so use it at your own risk. You may also contribute to the project by submitting issues and pull requests.
 
-For more information about the license, check the LICENSE file in the repository.
+
