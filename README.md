@@ -7,7 +7,7 @@ This project is a real-world e-commerce website built with Django. It covers var
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Course Breakdown](#course-breakdown)
+- [Project Breakdown](#course-breakdown)
 - [Installation Instructions](#installation-instructions)
 - [Deployment](#deployment)
 - [Additional Notes](#additional-notes)
@@ -46,7 +46,7 @@ This project demonstrates how to build a fully functional e-commerce store using
 - **Amazon S3**: For file storage.
 - **Amazon RDS**: For database management.
 
-## Course Breakdown
+## Project Breakdown
 
 This project is designed for learning purposes and follows a course structure that allows you to progressively build a live e-commerce store. The course covers:
 
