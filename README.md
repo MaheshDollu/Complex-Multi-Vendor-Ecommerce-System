@@ -69,7 +69,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/django-ecommerce-store.git
+   git clone https://github.com/MaheshDollu/django-ecommerce-store.git
    cd django-ecommerce-store
 
 
